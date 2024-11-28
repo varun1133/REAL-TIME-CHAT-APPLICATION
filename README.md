@@ -25,7 +25,7 @@ This project is a real-time chat application built using the MERN stack (MongoDB
 1.  Clone the repository:
 
 ```bash
-  git clone https://github.com/Tejas-Noojile/chat-application.git
+  git clone https://github.com/Varun Gowda/chat-application.git
 ```
 
 1.  Install dependencies:
